@@ -1,4 +1,4 @@
-**ALLAMPALLI KRISHNA KALYAN**
+**MY PORTFOLIO**
 
 👋 Hi there! I'm ALLAMPALLI KRISHNA KALYAN, a passionate Data Scientist with interests in Full Stack Development, Data Science, and C Programming.
 
